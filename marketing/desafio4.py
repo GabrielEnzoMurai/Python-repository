@@ -22,7 +22,7 @@ df = pd.read_csv("MKT.csv")
 """`df.head( )`
 `df.describe( )`
 `df.info( )`
-Para analisar estatitiscamente melhor os dados
+Para analisar estatisticamente melhor os dados
 """
 
 df.head()
