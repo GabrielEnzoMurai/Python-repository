@@ -1,2 +1,2 @@
 # python-repository
-Repositório com meus projetos e desafiops em Python
+Repositório com meus projetos e desafios em Python
