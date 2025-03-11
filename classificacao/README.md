@@ -1,4 +1,4 @@
-# Desafio: Preveja os usuários com alta chance de deixar seu Streaming
+# Desafio: Prever os usuários com alta chance de deixar seu Streaming
 Desafio feito como desafio do curso da [Escola DNC](https://www.escoladnc.com.br) (Cientista de Dados)
 
 ### Situação
